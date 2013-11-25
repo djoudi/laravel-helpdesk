@@ -4,8 +4,14 @@
 	"keywords": ["framework", "laravel"],
 	"license": "MIT",
 	"require": {
-		"laravel/framework": "4.0.*"
+		"laravel/framework": "4.0.*",
+        "rcrowe/twigbridge": "0.5.*",
+        "way/generators": "dev-master",
+        "barryvdh/laravel-ide-helper": "1.*"
 	},
+    "require-dev": {
+        "mockery/mockery": "dev-master@dev"
+    },
 	"autoload": {
 		"classmap": [
 			"app/commands",
