@@ -1,21 +1,11 @@
-## Laravel PHP Framework
+# Laravel Help Desk
 
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/version.png)](https://packagist.org/packages/laravel/framework) [![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.png)](https://packagist.org/packages/laravel/framework) [![Build Status](https://travis-ci.org/laravel/framework.png)](https://travis-ci.org/laravel/framework)
+Laravel Help Desk é uma implementação de uma aplicação de Help Desk utilizando o framework [Laravel 4](http://laravel.com) e Twitter Bootstrap. Ele foi criado com o propósito de estudos sobre PHP, Laravel 4, TDD, Twitter Bootstrap, Continuous Integration, HTML5, CSS3, Responsive Web Design,  e outros assuntos de tecnologia web.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, and caching.
+## To Do
 
-Laravel aims to make the development process a pleasing one for the developer without sacrificing application functionality. Happy developers make the best code. To this end, we've attempted to combine the very best of what we have seen in other web frameworks, including frameworks implemented in other languages, such as Ruby on Rails, ASP.NET MVC, and Sinatra.
-
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
-
-## Official Documentation
-
-Documentation for the entire framework can be found on the [Laravel website](http://laravel.com/docs).
-
-### Contributing To Laravel
-
-**All issues and pull requests should be filed on the [laravel/framework](http://github.com/laravel/framework) repository.**
-
-### License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+- Realizar prototipação das telas utilizando **Mobile First**, **Responsive Web Design** e o **Twitter Bootstrap 3**;
+- Realizar testes unitários, funcionais e de aceitação com code-coverage;
+- Realizar o gerenciamento de assets;
+- Realizar a preparação para deploy;
+- Realizar o controle de versão do projeto;
