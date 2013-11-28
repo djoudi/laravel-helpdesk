@@ -5,6 +5,7 @@ Laravel Help Desk é uma implementação de uma aplicação de Help Desk utiliza
 ## To Do
 
 - Realizar prototipação das telas utilizando **Mobile First**, **Responsive Web Design** e o **Twitter Bootstrap 3**;
+- Utilizar o Sentry2 para authorization and authentication
 - Realizar testes unitários, funcionais e de aceitação com code-coverage;
 - Realizar o gerenciamento de assets;
 - Realizar a preparação para deploy;
