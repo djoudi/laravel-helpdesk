@@ -1,0 +1,14 @@
+{% autoescape false %}
+
+{{ form_open({'route': 'sessions.store'}) }}
+
+<ul>
+    <li>
+        {{ form_label('username', 'Username:') }}
+        {{ form_text('username') }}
+    </li>
+</ul>
+
+{{ form_close() }}
+
+{% endautoescape %}

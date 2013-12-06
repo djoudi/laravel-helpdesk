@@ -57,7 +57,7 @@ return array(
 			'host'      => 'localhost',
 			'database'  => 'helpdesk',
 			'username'  => 'root',
-			'password'  => 'p455w0rd',
+			'password'  => '',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
